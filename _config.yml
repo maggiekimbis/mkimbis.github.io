@@ -3,14 +3,3 @@ description: Data Science masters student at the University of Maryland
 show_downloads: true
 theme: jekyll-theme-minimal
 
-layout: page
-title: "Education"
-permalink: /URL-PATH
-
-layout: page
-title: "Projects"
-permalink: /URL-PATH
-
-layout: page
-title: "Experience"
-permalink: /URL-PATH
