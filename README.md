@@ -1,15 +1,7 @@
-# Data Science and Analytics Portfolio
+# Data Science and Analytics 
 
-## Education
+## Education History
 
-* M.S Data Science University of Maryland
-* B.S Psychology University of Maryland
+* M.S Data Science University of Maryland (August 2023 - December 2024)
+* B.S Psychology University of Maryland (Augus 2019 - May 2023)
 
-## Work Experience
-* Lab Coordinator and at the Johns Hopkins Univeristy
-- 
-
-## Projects
-
-### Behavioral Analysis of Decision Making in Monkeys Using LSTM
-- Stuff
