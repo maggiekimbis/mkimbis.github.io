@@ -2,11 +2,12 @@
 
 ## Education
 
-M.S Data Science University of Maryland
-B.S Psychology University of Maryland
+* M.S Data Science University of Maryland
+* B.S Psychology University of Maryland
 
 ## Work Experience
-Lab Coordinator and at the Johns Hopkins Univeristy
+* Lab Coordinator and at the Johns Hopkins Univeristy
+- 
 
 ## Projects
 
